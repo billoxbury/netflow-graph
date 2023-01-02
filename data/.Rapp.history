@@ -1,0 +1,2 @@
+load("/Users/wmoxbury/Blog/ec2/201507 mnist/data/mnist_9dim_6000_tSNE_4000.Rds")
+load("/Users/bill/Projects/201512nfgraph/nfgraph/data/box_profiles_20151217.Rds")

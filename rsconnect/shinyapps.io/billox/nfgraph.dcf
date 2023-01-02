@@ -1,0 +1,13 @@
+name: nfgraph
+title: nfgraph
+username:
+account: billox
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 7965088
+bundleId: 6690060
+url: https://billox.shinyapps.io/nfgraph/
+when: 1672673060.47316
+lastSyncTime: 1672673060.47318
+asMultiple: FALSE
+asStatic: FALSE
